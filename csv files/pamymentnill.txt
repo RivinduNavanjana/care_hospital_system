@@ -1,0 +1,7 @@
+_______Care Hospital_______
+Receipt
+
+ID Numbrt   : 22
+Admit Day day     :2022-11-05
+Day of Discharge    :None
+Admitted Days   :
